@@ -30,7 +30,7 @@ SHIP_INITIAL_X  EQU     36d
 SHIP_LEN   EQU     16d ;mudar a função print map pra imprimir mapa de tamanho correto
 
 
-MAX_LIVES	  	EQU     4d
+MAX_LIVES	  	EQU     5d
 
 ;------------------------------------------------------------------------------
 ; ZONA II: definicao de variaveis
